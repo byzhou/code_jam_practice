@@ -1,6 +1,8 @@
 #include<stdio.h>
+#include"alien_number.h"
+
 
 int main(){
-    printf ("test");
+	alien_number();
     return 0;
 }

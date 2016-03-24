@@ -1,4 +1,4 @@
-CC              := g++
+CC              := ~/colorg++
 CFLAGS          := -c -Wall
 LDFLAGS         := 
 SOURCES         := alien_number.cc main.cc
